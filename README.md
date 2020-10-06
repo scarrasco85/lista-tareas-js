@@ -1,20 +1,7 @@
-# Webpack Starter
+# Lista de tareas JavaScrit
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+Lista de tareas utilizando webpack. La aplicación usa el localStorage para cargar y guardar los datos de las
+tareas.
 
 ## Notas:
-Recuerden reconstruir los módulos de Node: 
-```
-npm install
-```
-
-Para construir el build:
-
-```
-npm run build
-```
-
-Para levantar el servidor de desarrollo:
-```
-npm start
-```
+Puedes verlo desplegado en: https://scarrasco85.github.io/lista-tareas-js/
